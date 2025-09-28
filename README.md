@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi yall, im nataa
+Hi yall, im nataa ^_____^
 
 
 ## 🌐 Socials:
@@ -20,5 +20,3 @@ Hi yall, im nataa
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kihonataa&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
