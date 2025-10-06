@@ -12,6 +12,13 @@ Hi yall, im nataa ^_____^
 ![](https://nirzak-streak-stats.vercel.app/?user=kihonataa&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kihonataa&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🎵 Now Playing on Spotify
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=u82a71eport5j8p6umbj2gw51&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=u82a71eport5j8p6umbj2gw51&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&mode=dark&bar_color=53b14f&bar_color_cover=true">
+  </a>
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kihonataa&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
