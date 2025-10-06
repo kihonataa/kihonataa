@@ -19,9 +19,6 @@ Hi yall, im nataa ^_____^
   </a>
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kihonataa&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kihonataa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
